@@ -5,36 +5,87 @@ Welcome to the definitive guide on creating accessibility mods for Unity games. 
 ## Table of Contents
 
 ### Part I: The Foundation
-*   **[Chapter 1: The Modding Ecosystem](book/chapter-1.md)** - Understanding Unity, Loaders, and the "Shadow Client" philosophy.
-*   **[Chapter 2: Setting Up Your Laboratory](book/chapter-2.md)** - Environment configuration, CLI tools, and native binaries.
+* **[Chapter 1: The Modding Ecosystem](#chapter-1-the-modding-ecosystem)**
+* **[Chapter 2: Setting Up Your Laboratory](#chapter-2-setting-up-your-laboratory)**
 
 ### Part II: The Architecture (The Modular Framework)
-*   **[Chapter 3: Designing the Nervous System](book/chapter-3.md)** - Optimized speech delivery, pruning, and the interruptible queue.
-*   **[Chapter 4: The Brain (Input Virtualization)](book/chapter-4.md)** - Severing the mouse, semantic keys, and managing the focus stack.
-*   **[Chapter 5: The Senses (Extraction & Reflection)](book/chapter-5.md)** - Reaching into memory to extract the "Source of Truth."
+* **[Chapter 3: Designing the Nervous System](#chapter-3-designing-the-nervous-system)**
+* **[Chapter 4: The Brain (Input Virtualization)](#chapter-4-the-brain-input-virtualization)**
+* **[Chapter 5: The Senses (Extraction & Reflection)](#chapter-5-the-senses-extraction--reflection)**
 
 ### Part III: The Art of Discovery (Reverse Engineering)
-*   **[Chapter 6: Reading the Matrix](book/chapter-6.md)** - Non-visual code navigation and exploration.
-*   **[Chapter 7: Identifying Game Logic](book/chapter-7.md)** - Finding the core variables that drive the game's mathematical state.
+* **[Chapter 6: Reading the Matrix](#chapter-6-reading-the-matrix)**
+* **[Chapter 7: Identifying Game Logic](#chapter-7-identifying-game-logic)**
 
 ### Part IV: Implementation & Patterns
-*   **[Chapter 8: Mastering Menus](book/chapter-8.md)** - Virtual zones, sweep keys, and translating spatial layouts to linear lists.
-*   **[Chapter 9: Living in the World](book/chapter-9.md)** - Spatial audio, raycasting, and building a mental geometry of 3D space.
-*   **[Chapter 10: Advanced Interception](book/chapter-10.md)** - Hooking the event loop, state snapshots, and summarizing complex event chains.
+* **[Chapter 8: Mastering Menus](#chapter-8-mastering-menus)**
+* **[Chapter 9: Living in the World](#chapter-9-living-in-the-world)**
+* **[Chapter 10: Advanced Interception](#chapter-10-advanced-interception)**
 
 ### Part V: Going Global
-*   **[Chapter 11: The Polyglot Mod](book/chapter-11.md)** - Building the Loc localization system.
-*   **[Chapter 12: Hooking Native Localization](book/chapter-12.md)** - Syncing with the game's internal languages.
+* **[Chapter 11: The Polyglot Mod](#chapter-11-the-polyglot-mod)**
+* **[Chapter 12: Hooking Native Localization](#chapter-12-hooking-native-localization)**
 
 ### Part VI: Deployment & Beyond
-*   **[Chapter 13: The Finishing Touches](book/chapter-13.md)** - Performance optimization and robust error handling.
-*   **[Chapter 14: Distribution & Community](book/chapter-14.md)** - Packaging, publishing, and building a community.
-*   **[Chapter 15: Beyond Gameplay (Social & Meta)](book/chapter-15.md)** - History logs, visual suspense, social connectivity, and porting to other engines.
+* **[Chapter 13: The Finishing Touches](#chapter-13-the-finishing-touches)**
+* **[Chapter 14: Distribution & Community](#chapter-14-distribution--community)**
+* **[Chapter 15: Beyond Gameplay (Social & Meta)](#chapter-15-beyond-gameplay-social--meta)**
 
 ### Part VII: The Masterclass
-*   **[Chapter 16: Case Study - Against the Storm](book/chapter-16.md)** - Advanced simulation modding, spatial triangulation, and complex grid navigation.
+* **[Chapter 16: Case Study - Against the Storm](#chapter-16-case-study---against-the-storm)**
 
 ---
+
+## Chapter 1: The Modding Ecosystem
+Understanding Unity, Loaders, and the "Shadow Client" philosophy.
+
+## Chapter 2: Setting Up Your Laboratory
+Environment configuration, CLI tools, and native binaries.
+
+## Chapter 3: Designing the Nervous System
+Optimized speech delivery, pruning, and the interruptible queue.
+
+## Chapter 4: The Brain (Input Virtualization)
+Severing the mouse, semantic keys, and managing the focus stack.
+
+## Chapter 5: The Senses (Extraction & Reflection)
+Reaching into memory to extract the "Source of Truth."
+
+## Chapter 6: Reading the Matrix
+Non-visual code navigation and exploration.
+
+## Chapter 7: Identifying Game Logic
+Finding the core variables that drive the game's mathematical state.
+
+## Chapter 8: Mastering Menus
+Virtual zones, sweep keys, and translating spatial layouts to linear lists.
+
+## Chapter 9: Living in the World
+Spatial audio, raycasting, and building a mental geometry of 3D space.
+
+## Chapter 10: Advanced Interception
+Hooking the event loop, state snapshots, and summarizing complex event chains.
+
+## Chapter 11: The Polyglot Mod
+Building the Loc localization system.
+
+## Chapter 12: Hooking Native Localization
+Syncing with the game's internal languages.
+
+## Chapter 13: The Finishing Touches
+Performance optimization and robust error handling.
+
+## Chapter 14: Distribution & Community
+Packaging, publishing, and building a community.
+
+## Chapter 15: Beyond Gameplay (Social & Meta)
+History logs, visual suspense, social connectivity, and porting to other engines.
+
+## Chapter 16: Case Study - Against the Storm
+Advanced simulation modding, spatial triangulation, and complex grid navigation.
+
+---
+
 *Created by the Accessibility Modding Community.*
 # Chapter 1: The Modding Ecosystem
 
