@@ -1,1 +1,2 @@
 [The Book](./BOOK_OF_ACCESSIBILITY.md)
+[Le Livre](./BOOK_OF_ACCESSIBILITY_FR.md)
